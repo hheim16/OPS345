@@ -6,21 +6,21 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'OPS345v2 - Open System Application Server (WIP)',
-  tagline: 'OPS345v2',
-  url: 'https://seneca-ictoer.github.io/',
-  baseUrl: '/OPS345v2/',
+  title: 'OPS345 - Open System Application Server',
+  tagline: 'OPS345',
+  url: 'https://hheim16.github.io/',
+  baseUrl: '/OPS345/',
   trailingSlash: false,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'seneca-ictoer',
-  projectName: 'OPS345v2',
+  organizationName: 'hheim16',
+  projectName: 'OPS345',
   themeConfig: {
     navbar: {
-      title: 'OPS345v2 - Open System Application Server (WIP)',
+      title: 'OPS345 - Open System Application Server',
       logo: {
-        alt: 'Seneca Polytechnic',
+        alt: 'Hans Heim',
         src: 'img/logo.svg',
         srcDark: 'img/logo-dark.svg',
       },
@@ -38,7 +38,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'OPS345v2 - Open System Application Server (WIP)',
+          title: 'OPS345 - Open System Application Server',
           items: [
             {
               html: `<a href='#' id='pwa-button' class='footer__link-item' hidden>Install as an App</a>`,
@@ -46,7 +46,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Candice Carman.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Hans Heim.`,
     },
     prism: {
       theme: lightCodeTheme,
