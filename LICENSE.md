@@ -1,12 +1,12 @@
 # Copyright
 
-&copy; Copyright 2025 Candice Carman
+&copy; Copyright 2026 Hans Heim
 
 # LICENSE
 
 ## Documentation
 
-Except where otherwise noted, all documentation on this site is &copy; Copyright 2022 Candice Carman and may be used in accordance with the Creative Commons License, Attribution 2.5. This copyleft license allows you to copy, modify, and redistribute modifications of all or some of the pages as long as you
+Except where otherwise noted, all documentation on this site is &copy; Copyright 2026 Hans Heim and may be used in accordance with the Creative Commons License, Attribution 2.5. This copyleft license allows you to copy, modify, and redistribute modifications of all or some of the pages as long as you
 
 1. include the license with all copies or redistributions
 
@@ -16,17 +16,17 @@ This Web Site by Candice Carman is licensed under a Creative Commons Attribution
 
 ## Software
 
-Except where otherwise noted, all software downloadable from this site is &copy; Copyright 2025 Candice Carman and may be used in accordance with the PostgreSQL License (TPL):
+Except where otherwise noted, all software downloadable from this site is &copy; Copyright 2026 Hans Heim and may be used in accordance with the PostgreSQL License (TPL):
 
 > Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that the above copyright notice and this paragraph and the following two paragraphs appear in all copies.
 >
-> IN NO EVENT SHALL Candice Carman BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF Candice Carman HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+> IN NO EVENT SHALL Hans Heim BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION, EVEN IF Hans Heim HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 >
 > Candice Carman SPECIFICALLY DISCLAIM ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND Candice Carman HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
 This permissive license allows you to copy, modify, and redistribute modifications of all or some of the software as long as you
 
 1. include the license with all copies or redistributions
-1. attribute Candice Carman as the copyright holders
+1. attribute Hans Heim as the copyright holders
 
 Please direct any comments regarding this site or the software downloadable from this site here.
