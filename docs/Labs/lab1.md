@@ -8,7 +8,7 @@ description: Installing the host system, installing virtual machines, and creati
 # Lab 1 - Building the "Physical" Network
 
 ## Overview
-
+Stuf
 This week's lab will cover the following:
 
 - Installing our host system (Ubuntu)
